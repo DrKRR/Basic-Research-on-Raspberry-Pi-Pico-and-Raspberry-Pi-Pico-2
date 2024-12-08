@@ -1,2 +1,4 @@
-# Basic-Research-on-Raspberry-Pi-Pico-and-Raspberry-Pi-Pico-2
-Experimental Measurement of Certain Raspberry Pi Pico Parameters
+# Basic-Research-on-Raspberry-Pi-Pico-Raspberry-Pi-Pico-W-and-Raspberry-Pi-Pico-2
+<b>Experimental Measurement of Certain Raspberry Pi Pico Parameters</b>
+
+
