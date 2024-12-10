@@ -15,11 +15,15 @@ The ADC used in RP2350 as compared to RP2040, has improved precision. Basic spec
 MicroPython program is developed using the above specifications and sensor temperature is displayed on the Thonny shell. The measured temperature will be almost constant at the beginning . But, as time progress, the power dissipation of the internal dye will change (increase) the measured temperature. On the other hand, when the plastic encapsulation of RP2350 is cooled, the sensor temperature reduces. The microcontroller board placed on the bread board is shown below. Don<sup>'</sup>t get puzzled by the extra components on the board. It is for other experiments. The temperature output is seen on the Thonny shell. Code is available in this repository.
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28edce4a-7c7c-4d8c-b722-7704b703e5c5"width="250"height="250">
-     <img src="https://github.com/user-attachments/assets/8bc0a0ce-6aa2-4fd5-b226-42ee5900e1fd"width="200"height="250"></p>
+     <img src="https://github.com/user-attachments/assets/58a17cb0-2721-47f7-8048-2c848cbfa70e"width="230"height="250"></p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e0ed06d0-11f4-42b0-b3c0-96f9257fa9ae"width="720"height="500"></p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/2ba50dcd-a691-4cd0-b5b3-942030526014"width="720"height="500"></p>
+
+
+
+
 
 
 
