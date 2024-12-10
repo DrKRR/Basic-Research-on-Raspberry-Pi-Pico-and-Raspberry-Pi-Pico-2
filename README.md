@@ -16,7 +16,9 @@ MicroPython program is developed using the above specifications and sensor tempe
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28edce4a-7c7c-4d8c-b722-7704b703e5c5"width="250"height="250"></p>
 
-The following video shows the temperature displayed in the shell of MicroPython program
+<p align="center"><img src="https://github.com/user-attachments/assets/e0ed06d0-11f4-42b0-b3c0-96f9257fa9ae"width="720"height="500"></p>
+
+
 
 
 
