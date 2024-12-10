@@ -18,6 +18,11 @@ MicroPython program is developed using the above specifications and sensor tempe
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e0ed06d0-11f4-42b0-b3c0-96f9257fa9ae"width="720"height="500"></p>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/2ba50dcd-a691-4cd0-b5b3-942030526014"width="720"height="500"></p>
+
+
+
+
 
 
 
