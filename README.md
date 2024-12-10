@@ -1,6 +1,6 @@
 # Basic-Research-on-Raspberry-Pi-Pico-Raspberry-Pi-Pico-W-and-Raspberry-Pi-Pico-2
 <b>Experimental Measurement of Certain Raspberry Pi Pico Parameters</b> <br>
-As a beginning of the research done on variants of Raspberry Pi Pico models, I am explaining certain parameter measurements. Codes are developed both in MicroPython and Arduino, wherever is necessary. I am sure that I am not describing the parameters in systematic way (Randomly).<br>
+As a beginning of the research done on variants of Raspberry Pi Pico models, I am explaining certain parameter measurements. Codes are developed both in MicroPython and Arduino, wherever is necessary. I am sure that I am not describing the parameters in systematic way (Randomly). A number of on-line web sites has motivated me to do this reearch.<br>
 ## Unveiling the On-chip Temperature Sensor of Raspberry Pi Pico ##
 <b>Raspberry Pi Pico W:</b><br>
 I have already explained the On-chip temperature sensor in the following YouTube Short:<br>
