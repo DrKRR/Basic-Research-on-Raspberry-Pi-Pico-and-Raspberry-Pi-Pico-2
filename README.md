@@ -1,3 +1,4 @@
+Among different types of microcontrollers available on the market, Raspberry Pi Pico series have decided advantages (Please refer to the hardware manual). I got attracted towards the on-chip thermal sensor and power down modes, specifically. Hence, I am focusing on these parameter measuremnt, experimentally.<br>
 # Basic-Research-on-Raspberry-Pi-Pico-Raspberry-Pi-Pico-W-and-Raspberry-Pi-Pico-2
 <b>Experimental Measurement of Certain Raspberry Pi Pico Parameters</b> <br>
 As a beginning of the research done on variants of Raspberry Pi Pico models, I am explaining certain parameter measurements. Codes are developed both in MicroPython and Arduino, wherever is necessary. I am sure that I am not describing the parameters in systematic way (Randomly). A number of on-line web sites has motivated me to do this reearch.<br>
@@ -24,7 +25,7 @@ MicroPython program is developed using the above specifications and sensor tempe
 ## Study on Low Power Modes of RP2040 ##
 In this exercise I have developed code in MicroPython to test and note the current drawn by the Raspberry Pi Pico 2 board in the following modes:<br>
 (a). Pass (Normal program to create delay) (b). sleep (c). lowpower.lightsleep() and (d). lowpower.dormant()<br>
-Two files namely (i). lowpower.py (courtesy: https://github.com/tomjorquera/pico-micropython-lowpower-workaround/blob/master/lowpower.py) and (ii). Low-power testing.py are stored on the device and the board is powered by an external USB power bank. Both files are available in the repository.
+Two files namely (i). lowpower.py (courtesy: https://github.com/tomjorquera/pico-micropython-lowpower-workaround/blob/master/lowpower.py) and (ii). Low-power testing.py (present work) are stored on the device and the board is powered by an external USB power bank. Both files are available in the repository.
 
 
 
