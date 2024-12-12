@@ -25,9 +25,10 @@ MicroPython program is developed using the above specifications and sensor tempe
 ## Study on Low Power Modes of RP2040 ##
 In this exercise I have developed code in MicroPython to test and note the current drawn by the Raspberry Pi Pico 2 board in the following modes:<br>
 (a). Pass (Normal program to create delay) (b). sleep (c). lowpower.lightsleep() and (d). lowpower.dormant()<br>
-Two files namely (i). lowpower.py (courtesy: https://github.com/tomjorquera/pico-micropython-lowpower-workaround/blob/master/lowpower.py) and (ii). Low-power testing.py (present work) are stored on the device and the board is powered by an external USB power bank. Both files are available in the repository.
+Two files namely (i). lowpower.py (courtesy: https://github.com/tomjorquera/pico-micropython-lowpower-workaround/blob/master/lowpower.py) and (ii). Low-power testing.py (present work) are stored on the device  Both files are available in the repository.
+The corresponding hardware diagram is shown below, and the board is powered by an external USB power bank via bread board power supply.
 
-
+<p align="center"><img src="https://github.com/user-attachments/assets/52a9964d-43f9-46ae-beb6-407c2e0db4f1"width="500"height="700"></p>
 
 
 
