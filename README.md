@@ -32,7 +32,7 @@ The corresponding hardware diagram developed on a bread board is shown below, an
 <p align="center"><img src="https://github.com/user-attachments/assets/cd4fb93f-164d-4055-977a-70f171ac2083"width="360"height="540"></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/aaf978c7-d79d-40c9-89de-4653d8f66f6d"width="360"height="540">
         <img src="https://github.com/user-attachments/assets/dc1a484c-636a-454e-83e5-0b6f56dc58cf"width="360"height="540"></p>
-As the page has become larger in size, I am discussing about the low power modes of Raspberry Pi Pico 2 (RP2350) in another repository.<br>
+As the page has become larger in size, I am discussing the low power modes of Raspberry Pi Pico 2 (RP2350) in another repository.<br>
 <p align="center"><img src="https://github.com/user-attachments/assets/ac1c769a-7d27-4df5-ab6f-8ea9eec081ba"></p>
 
 > [!TIP]
