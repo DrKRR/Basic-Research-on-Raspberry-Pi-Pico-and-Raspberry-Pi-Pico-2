@@ -5,7 +5,7 @@ As a beginning of the research done on variants of Raspberry Pi Pico models, I a
 ## Unveiling the On-chip Temperature Sensor of Raspberry Pi Pico ##
 <b>Raspberry Pi Pico W:</b><br>
 I have already explained the On-chip temperature sensor in the following YouTube Short:<br>
-**Unveiling the On chip Temperature Sensor of Raspberry Pi Pico**  (https://youtube.com/shorts/_W1XJNeHqDk)<br>
+**Unveiling the On chip Temperature Sensor of Raspberry Pi Pico** [Please visit this YouTube Short](https://youtube.com"shorts/_W1XJNeHqDk")<br>
 The MicroPython code for the above is given in this repository<br>
 **Raspberry Pi Pico 2**<br>
 The Raspberry Pi Pico 2 was introduced on 8th August 2024, costing 5$. It's a 2X dual core (dual-ARM Cortex M33 and dual-RISC V Hazard3) microcontroller (RP2350) with advanced features.
