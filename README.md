@@ -27,7 +27,7 @@ MicroPython program is developed using the above specifications and sensor tempe
 In this exercise I have developed code in MicroPython to test and note the current drawn by the Raspberry Pi Pico board in the following modes:<br>
 (a). Pass (Normal program with creation of delay) (b). sleep (c). lowpower.lightsleep() and (d). lowpower.dormant()<br>
 Two files namely (i). lowpower.py [courtesy](https://github.com/tomjorquera/pico-micropython-lowpower-workaround/blob/master/lowpower.py) and (ii). Low-power testing.py (present work) are stored on the device  Both files are available in the repository.
-The corresponding hardware diagram developed on a bread board is shown below, and the board is powered by an [external USB power bank] (https://github.com/DrKRR/Build-Your-own-Power-Bank-for-your-Travel-and-IoT-Projects) via 5V/3V selectable bread board power supply unit. Also shown below is the photograph of the experimental setup.
+The corresponding hardware diagram developed on a bread board is shown below, and the board is powered by an [external USB power bank](https://github.com/DrKRR/Build-Your-own-Power-Bank-for-your-Travel-and-IoT-Projects) via 5V/3V selectable bread board power supply unit. Also shown below is the photograph of the experimental setup.
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cd4fb93f-164d-4055-977a-70f171ac2083"width="360"height="540"></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/aaf978c7-d79d-40c9-89de-4653d8f66f6d"width="360"height="540">
